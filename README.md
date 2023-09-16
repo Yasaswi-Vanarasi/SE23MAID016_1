@@ -69,15 +69,12 @@ Graph for the same are as below:
    
 3. **Nth Power of Matrix with OMM ( Threads vs Elapsed Time )** :
 
-     ![image](https://github.com/Yasaswi-Vanarasi/SE23MAID016_1/assets/87477849/65683c6c-de59-4839-a63b-e0dd37a3bbbb)
+     ![image](https://github.com/Yasaswi-Vanarasi/SE23MAID016_1/assets/87477849/98dce8a4-782b-4628-bb9e-a3a3ba0c5eca)
 
+     ![image](https://github.com/Yasaswi-Vanarasi/SE23MAID016_1/assets/87477849/e0d600fe-cbec-4e18-a571-8718296d6156)
 
-     ![image](https://github.com/Yasaswi-Vanarasi/SE23MAID016_1/assets/87477849/0b9f2089-1ca3-428d-add7-8dff2ebff821)
+     ![image](https://github.com/Yasaswi-Vanarasi/SE23MAID016_1/assets/87477849/c708ca09-be25-4136-96fb-b4e1f6591494)
 
-
-     ![image](https://github.com/Yasaswi-Vanarasi/SE23MAID016_1/assets/87477849/64e7fd94-3fe5-4253-af09-d7326be4d574)
-
-   
 
 ## Conclusion
 
@@ -126,41 +123,45 @@ The program will display the size of the matrices, the block size, and the resul
 
 1. **BMM ( Threads vs Elapsed Time )** :
 
-   ![image](https://github.com/Bhavyareddysadula/hpc_readme/assets/126856102/fa9d97e7-1a4b-4fc1-b951-aee78d1c9f42)
-
-   ![image](https://github.com/Bhavyareddysadula/hpc_readme/assets/126856102/32cd9ae0-cb93-4534-b22d-8a9d4eb9d8a1)
-
-   ![image](https://github.com/Bhavyareddysadula/hpc_readme/assets/126856102/13efd22e-f7f8-48c6-99ef-c2b98fa728d0)
-
-   ![image](https://github.com/Bhavyareddysadula/hpc_readme/assets/126856102/d72284cf-fc77-4f5b-a30c-595c1812ef24)
-
-   ![image](https://github.com/Bhavyareddysadula/hpc_readme/assets/126856102/08f59f7c-6fc1-4fe5-93ab-1c3c72bf2cb2)
-
-   ![image](https://github.com/Bhavyareddysadula/hpc_readme/assets/126856102/ef993aa3-340f-440e-9b9d-b9f3fb34dae6)
-
-   ![image](https://github.com/Bhavyareddysadula/hpc_readme/assets/126856102/86c7d394-e144-4c7d-8c3f-de727cb690f9)
-
-   ![image](https://github.com/Bhavyareddysadula/hpc_readme/assets/126856102/8f30055c-f9dc-4b32-8e1a-757f14dd33d8)
-
-   ![image](https://github.com/Bhavyareddysadula/hpc_readme/assets/126856102/bad4e8ca-d363-4905-9f48-376fba22704b)
-
-   ![image](https://github.com/Bhavyareddysadula/hpc_readme/assets/126856102/64005011-d04f-4165-8319-91cf1d66f3b9)
-
-   ![image](https://github.com/Bhavyareddysadula/hpc_readme/assets/126856102/0dde34b3-ec13-4e2b-9269-fa65f005160e)
-
-   ![image](https://github.com/Bhavyareddysadula/hpc_readme/assets/126856102/d39c0483-5764-4dea-969a-6d596d28e5ae)
-
-   ![image](https://github.com/Bhavyareddysadula/hpc_readme/assets/126856102/cd67a740-fb3d-49e7-9001-050569986a69)
-
-   ![image](https://github.com/Bhavyareddysadula/hpc_readme/assets/126856102/98ddcaf1-c381-4a03-a67e-b9f19141cadb)
-
-   ![image](https://github.com/Bhavyareddysadula/hpc_readme/assets/126856102/34dfaa23-6cd4-4322-a168-2690fc74468c)
+   ![image](https://github.com/Yasaswi-Vanarasi/SE23MAID016_1/assets/87477849/5459377d-77e7-4b33-9bfa-df1969f7fdf5)
    
-2. **Nth Power of Matrix with BMM ( Threads vs Elapsed Time )** :
+   ![image](https://github.com/Yasaswi-Vanarasi/SE23MAID016_1/assets/87477849/4aec8243-0a1d-47ed-9441-78a87dc07970)
+   
+   ![image](https://github.com/Yasaswi-Vanarasi/SE23MAID016_1/assets/87477849/d7496767-f977-4375-b98e-5cb59c7320ce)
+   
+   ![image](https://github.com/Yasaswi-Vanarasi/SE23MAID016_1/assets/87477849/341b8577-f877-4c5c-bfd3-d4e921df4ea0)
+   
+   ![image](https://github.com/Yasaswi-Vanarasi/SE23MAID016_1/assets/87477849/8b305baa-2817-4843-ac36-ef156e2c22d4)
+   
+   ![image](https://github.com/Yasaswi-Vanarasi/SE23MAID016_1/assets/87477849/6ce478c7-09d3-4714-83c5-4e4cd8b9bb74)
+   
+   ![image](https://github.com/Yasaswi-Vanarasi/SE23MAID016_1/assets/87477849/a6a6a1e0-94da-4acb-a059-b7a5870c1b9f)
+   
+   ![image](https://github.com/Yasaswi-Vanarasi/SE23MAID016_1/assets/87477849/e3ac55d7-ad17-4c69-b271-1d0415428e56)
+   
+   ![image](https://github.com/Yasaswi-Vanarasi/SE23MAID016_1/assets/87477849/84c3ace2-2eaa-453e-b40e-17a9c8f6f8d1)
+   
+   ![image](https://github.com/Yasaswi-Vanarasi/SE23MAID016_1/assets/87477849/fc206d4f-83a1-4fee-81b4-7d83b519ab3d)
+   
+   ![image](https://github.com/Yasaswi-Vanarasi/SE23MAID016_1/assets/87477849/09644dc4-e1f0-464f-8d44-419a84ca86cb)
+   
+   ![image](https://github.com/Yasaswi-Vanarasi/SE23MAID016_1/assets/87477849/d2120d5c-d4bf-45f7-a6f4-9afa64cb7408)
+   
+   ![image](https://github.com/Yasaswi-Vanarasi/SE23MAID016_1/assets/87477849/cfe4e6f7-5a91-45bc-b4e0-fd36c79da57f)
+   
+   ![image](https://github.com/Yasaswi-Vanarasi/SE23MAID016_1/assets/87477849/a2540238-624c-4c5f-9de3-f9dcde4314fb)
+   
+   ![image](https://github.com/Yasaswi-Vanarasi/SE23MAID016_1/assets/87477849/d518ff1b-3dd9-4e1f-841c-92df52c39be7)
 
-   ![image](https://github.com/Bhavyareddysadula/hpc_readme/assets/126856102/4c067ed1-f485-4c5b-aea5-44c60c960e50)
 
-   ![image](https://github.com/Bhavyareddysadula/hpc_readme/assets/126856102/09d91bf5-cd2e-4a7d-98b1-e2e729f938ba)
+   
+3. **Nth Power of Matrix with BMM ( Threads vs Elapsed Time )** :
+
+   ![image](https://github.com/Yasaswi-Vanarasi/SE23MAID016_1/assets/87477849/51ba9293-04b2-4606-859c-329242a5c7a0)
+
+
+   ![image](https://github.com/Yasaswi-Vanarasi/SE23MAID016_1/assets/87477849/f901caa2-3df8-4c0f-93fe-e4053b3ce89e)
+
 
 
 ## Memory Management
