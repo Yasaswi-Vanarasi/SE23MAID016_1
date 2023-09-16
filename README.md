@@ -64,16 +64,14 @@ Graph for the same are as below:
      ![image](https://github.com/Yasaswi-Vanarasi/SE23MAID016_1/assets/87477849/8a838ed7-9a8a-4719-8aaf-1caffe1cff31)
 
 
-
-
    
 3. **Nth Power of Matrix with OMM ( Threads vs Elapsed Time )** :
 
-     ![image](https://github.com/Yasaswi-Vanarasi/SE23MAID016_1/assets/87477849/98dce8a4-782b-4628-bb9e-a3a3ba0c5eca)
+     ![image](https://github.com/Yasaswi-Vanarasi/SE23MAID016_1/assets/87477849/1987cf3d-d742-4dfd-a3b9-528fa4295ff3)
 
-     ![image](https://github.com/Yasaswi-Vanarasi/SE23MAID016_1/assets/87477849/e0d600fe-cbec-4e18-a571-8718296d6156)
+     ![image](https://github.com/Yasaswi-Vanarasi/SE23MAID016_1/assets/87477849/38c9599a-404c-4a1d-b694-7d5da7799022)
 
-     ![image](https://github.com/Yasaswi-Vanarasi/SE23MAID016_1/assets/87477849/c708ca09-be25-4136-96fb-b4e1f6591494)
+     ![image](https://github.com/Yasaswi-Vanarasi/SE23MAID016_1/assets/87477849/23a06272-0650-45a2-b65b-aa4400fa8916)
 
 
 ## Conclusion
